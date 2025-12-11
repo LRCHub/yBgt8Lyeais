@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "コール",
+  "base_artist": "HIKAKIN & SEIKIN",
+  "createdAt": "2025-12-11T16:41:25.194049Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "アイ・コール・ユア・ネイム",
+      "artist": "ママス&パパス",
+      "has_synced": false,
+      "path": "select/01_アイ・コール・ユア・ネイム_ママス&パパス.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "コール・ミー・ニニブ",
+      "artist": "Emmure",
+      "has_synced": false,
+      "path": "select/02_コール・ミー・ニニブ_Emmure.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ナイト・コール・ガール",
+      "artist": "Majestica",
+      "has_synced": false,
+      "path": "select/03_ナイト・コール・ガール_Majestica.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "コール・トゥ・ディストラクション",
+      "artist": "Nile",
+      "has_synced": false,
+      "path": "select/04_コール・トゥ・ディストラクション_Nile.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ミッドナイト・コール",
+      "artist": "飯島真理",
+      "has_synced": false,
+      "path": "select/05_ミッドナイト・コール_飯島真理.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ミッドナイト・コール",
+      "artist": "Iijima, Mari",
+      "has_synced": false,
+      "path": "select/06_ミッドナイト・コール_Iijima,_Mari.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "イタ電はやめて! ぼくらのスカーレット?コール",
+      "artist": "Koko, >>96, Natsu Iwasugi",
+      "has_synced": true,
+      "path": "select/07_イタ電はやめて!_ぼくらのスカーレット_コール_Koko,__96,_Natsu_Iwasugi.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "イタ電はやめて! ぼくらのスカーレット?コール",
+      "artist": "Koko, >>96, Natsu Iwasugi & Chihiro Aihara",
+      "has_synced": true,
+      "path": "select/08_イタ電はやめて!_ぼくらのスカーレット_コール_Koko,__96,_Natsu_Iwasugi_&_Chihiro_Aihara.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "イタ電はやめて! ぼくらのスカーレット?コール",
+      "artist": "Koko, Kuro, Iwasugi, Natsu & Aihara, Chihiro",
+      "has_synced": true,
+      "path": "select/09_イタ電はやめて!_ぼくらのスカーレット_コール_Koko,_Kuro,_Iwasugi,_Natsu_&_Aihara,_Chihiro.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "コール",
+      "artist": "玉置浩二",
+      "has_synced": false,
+      "path": "select/10_コール_玉置浩二.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "イタ電はやめて! ぼくらのスカーレット・コール",
+      "artist": "IOSYS",
+      "has_synced": true,
+      "path": "select/11_イタ電はやめて!_ぼくらのスカーレット・コール_IOSYS.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "イタ電はやめて! ぼくらのスカーレット?コール",
+      "artist": "IOSYS",
+      "has_synced": true,
+      "path": "select/12_イタ電はやめて!_ぼくらのスカーレット_コール_IOSYS.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "コール・ミー・メイビー",
+      "artist": "Various Artists",
+      "has_synced": false,
+      "path": "select/13_コール・ミー・メイビー_Various_Artists.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "イタ電はやめて! ぼくらのスカーレット?コール",
+      "artist": "ココ, >>96, 岩杉夏",
+      "has_synced": true,
+      "path": "select/14_イタ電はやめて!_ぼくらのスカーレット_コール_ココ,__96,_岩杉夏.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "イタ電はやめて！ ぼくらのスカーレット・コール",
+      "artist": "IOSYS",
+      "has_synced": false,
+      "path": "select/15_イタ電はやめて!_ぼくらのスカーレット・コール_IOSYS.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "イタ電はやめて! ぼくらのスカーレット・コール",
+      "artist": "イオシス",
+      "has_synced": true,
+      "path": "select/16_イタ電はやめて!_ぼくらのスカーレット・コール_イオシス.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "カーテン・コール",
+      "artist": "SOUL’d OUT",
+      "has_synced": false,
+      "path": "select/17_カーテン・コール_SOUL’d_OUT.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "コール",
+      "artist": "HIKAKIN & SEIKIN",
+      "has_synced": false,
+      "path": "select/pl_01_コール_HIKAKIN_&_SEIKIN.txt"
+    }
+  ]
+}
